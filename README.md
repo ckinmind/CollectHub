@@ -14,9 +14,8 @@
 
 
 比较酷
+
 |资源|关于|
 |---|---|
 | [Github: reveal.js](https://github.com/hakimel/reveal.js) | Reveal.js一个用来做WEB演示文稿的框架 |
-|  |  |
-|  |  |
-|  |  |
+
