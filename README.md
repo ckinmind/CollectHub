@@ -10,3 +10,4 @@
 | [awesome-php](https://github.com/ziadoz/awesome-php)  | A curated list of amazingly awesome PHP libraries, resources and shiny things |
 | [jstutorial](https://github.com/ruanyf/jstutorial)|An open JavaScript tutorial book, focusing on client devices, written in Chinese|
 | [jstraining](https://github.com/ruanyf/jstraining)  | 全栈工程师培训材料 |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|HelloGitHub月刊|
