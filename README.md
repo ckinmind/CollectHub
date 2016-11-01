@@ -11,3 +11,12 @@
 | [jstutorial](https://github.com/ruanyf/jstutorial)|An open JavaScript tutorial book, focusing on client devices, written in Chinese|
 | [jstraining](https://github.com/ruanyf/jstraining)  | 全栈工程师培训材料 |
 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|HelloGitHub月刊|
+
+
+比较酷
+|资源|关于|
+|---|---|
+| [Github: reveal.js](https://github.com/hakimel/reveal.js) | Reveal.js一个用来做WEB演示文稿的框架 |
+|  |  |
+|  |  |
+|  |  |
