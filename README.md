@@ -23,5 +23,5 @@
 |资源|关于|质量|
 |---|---|---|
 | [Github: reveal.js](https://github.com/hakimel/reveal.js) | Reveal.js一个用来做WEB演示文稿的框架 ||
-| [Web 前端开发精华文章推荐（jQuery、HTML5、CSS3）【系列十二】](http://www.cnblogs.com/lhb25/archive/2012/12/12/must-read-links-for-web-designers-and-developers-volume-12.html) |非常多的前端文章，值得多阅览|✔✔✔✔|
+| [Web 前端开发精华文章推荐（jQuery、HTML5、CSS3）](http://www.cnblogs.com/lhb25/archive/2012/12/12/must-read-links-for-web-designers-and-developers-volume-12.html) |非常多的前端文章，值得多阅览|✔✔✔✔|
 
