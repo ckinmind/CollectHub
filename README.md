@@ -14,9 +14,9 @@
 |[free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)|各种的编程资源|
 |[Mobile Web Favorites](https://github.com/hoosin/mobile-web-favorites)|移动前端开发收藏夹|
 |[airbnb/javascript](https://github.com/airbnb/javascript#table-of-contents)|A mostly reasonable approach to JavaScript似乎是js的编程风格|
-|[js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|Step-by-step tutorial to build a modern JavaScript stack from scratch一步一步的教程，从头开始建立一个现代JavaScript堆栈|
+|[js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|一步一步的教程，从头开始建立一个现代JavaScript堆栈|
 |[underscore-analysis](https://github.com/hanzichi/underscore-analysis)|underscore-1.8.3.js 源码解读|
-
+|[awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)|awesome-javascript系列中文版|
 
 比较酷
 
