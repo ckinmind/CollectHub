@@ -17,6 +17,7 @@
 |[js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|一步一步的教程，从头开始建立一个现代JavaScript堆栈||
 |[underscore-analysis](https://github.com/hanzichi/underscore-analysis)|underscore-1.8.3.js 源码解读||
 |[awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)|awesome-javascript系列中文版|✔✔✔✔|
+|[Front-End-Develop-Guide 前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)|这份指南汇集了前端开发所使用语言的主流学习资源|✔✔✔✔|
 
 比较酷
 
